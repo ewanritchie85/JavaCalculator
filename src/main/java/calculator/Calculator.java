@@ -25,4 +25,10 @@ public class Calculator{
         double quotient = args[0] / args[1];
         return quotient;
     }
+    public static double modulus(double[]args){
+        
+        double modulus = args[0] % args[1];
+        return modulus;
+    }
+    
 }
