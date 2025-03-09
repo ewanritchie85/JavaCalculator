@@ -1,0 +1,1 @@
+A very simple calculator made in Java to get used to Java syntax, as well as OOP projects
